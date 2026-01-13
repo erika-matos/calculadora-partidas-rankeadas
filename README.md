@@ -11,6 +11,7 @@ O objetivo é criar uma função que calcula o saldo de vitórias de um jogador 
 
 ## 🛠️ Tecnologias utilizadas
 - JavaScript
+- Node.js 
 
 ## ▶️ Execução
 O projeto pode ser executado utilizando o Node.js através do terminal.
